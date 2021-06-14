@@ -1,4 +1,4 @@
-## Simulations for "Mathematics of Machine Learning"
+## Simulations for Mathematics of Machine Learning (401-2684-00L)
 
 This repository contains the Jupyter notebooks which I've written for the lecture [**401-2684-00L Mathematics of Machine Learning**](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=152806&semkez=2021S&lang=de) held at ETH Zürich by [Afonso Bandeira](https://people.math.ethz.ch/~abandeira/index.html) and [Nikita Zhivotovskii](https://math.ethz.ch/ifor/people.html?u=nzhivotovski) in Spring 2021.
 
